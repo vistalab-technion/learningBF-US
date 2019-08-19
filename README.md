@@ -10,7 +10,7 @@ Coming soon:
 - The cardiac raw dataset
 
 
-If you find use this code, please cite the following work:
+If you use this code, please cite the following work:
 
 ```
 Sanketh Vedula, Ortal Senouf, Grigoriy Zurakhov, Alex Bronstein, Oleg Michailovich, Michael Zibulevsky.
